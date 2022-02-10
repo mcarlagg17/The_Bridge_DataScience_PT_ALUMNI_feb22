@@ -17,3 +17,6 @@ _book
 
 # Ficheros ocultos sistema operativo
 .DS_Store
+
+# Contraseñas
+.env
